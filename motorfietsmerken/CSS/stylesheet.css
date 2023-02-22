@@ -1,0 +1,117 @@
+body{
+    background-color: darkslategray;
+}
+
+
+header{
+    background-color: #AA2040;
+    height: 50px;
+    font-weight: bold;
+}
+
+footer{
+    background-color: black;
+    color: #AA2040;
+    height: 50px;
+    font-weight: bold;
+}
+
+
+#td1{
+    background-color: aqua;
+    width: 250px;
+    height: 200px;
+
+}
+
+#td2{
+    background-color: blue;
+    width: 250px;
+    height: 200px;
+}
+
+#td3{
+    background-color: chartreuse;
+    width: 250px;
+    height: 200px;
+}
+
+#td4{
+    background-color: darkgoldenrod;
+    width: 250px;
+    height: 200px;
+}
+
+#td5{
+    background-color: firebrick;
+    width: 250px;
+    height: 200px;
+}
+
+#td6{
+    background-color: green;
+    width: 250px;
+    height: 200px;
+}
+
+#td7{
+    background-color: hotpink;
+    width: 250px;
+    height: 200px;
+}
+
+#td8{
+    background-color: indigo;
+    width: 250px;
+    height: 200px;
+}
+
+#td9{
+    background-color: khaki;
+    width: 250px;
+    height: 200px;
+}
+
+#td10{
+    background-color: lightgreen;
+    width: 250px;
+    height: 200px;
+}
+
+#td11{
+    background-color: maroon;
+    width: 250px;
+    height: 200px;
+}
+
+#td12{
+    background-color: navy;
+    width: 250px;
+    height: 200px;
+}
+
+#td13{
+    background-color: olive;
+    width: 250px;
+    height: 200px;
+}
+
+#td14{
+    background-color: peru;
+    width: 250px;
+    height: 200px;
+}
+
+#td15{
+    background-color: royalblue;
+    width: 250px;
+    height: 200px;
+}
+
+#td16{
+    background-color: silver;
+    width: 250px;
+    height: 200px;
+}
+
+
